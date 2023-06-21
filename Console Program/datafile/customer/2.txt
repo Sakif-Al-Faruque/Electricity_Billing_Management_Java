@@ -1,0 +1,7 @@
+569599	1000.0	march6499	2000.0	february	
+6499	1500.0	february	
+6499	1700.0	feb	
+6499	2200.0	june	
+6499	2800.0	february	
+6499	3300.0	february	
+6499	3900.0	September	
